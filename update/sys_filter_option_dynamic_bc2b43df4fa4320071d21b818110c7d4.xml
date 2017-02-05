@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_filter_option_dynamic">
+    <sys_filter_option_dynamic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_for_default>false</available_for_default>
+        <available_for_filter>true</available_for_filter>
+        <available_for_ref_qual>false</available_for_ref_qual>
+        <field_type/>
+        <filter_by_schedule/>
+        <label>Available Rooms</label>
+        <order/>
+        <roles/>
+        <script/>
+        <script_reference_id/>
+        <script_reference_table/>
+        <sys_class_name>sys_filter_option_dynamic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-31 19:43:36</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>bc2b43df4fa4320071d21b818110c7d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Available Rooms</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_update_name>sys_filter_option_dynamic_bc2b43df4fa4320071d21b818110c7d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-31 19:43:36</sys_updated_on>
+        <table>x_hotel_room</table>
+        <table_containing_filter/>
+    </sys_filter_option_dynamic>
+</record_update>
